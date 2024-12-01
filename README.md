@@ -1,4 +1,4 @@
-# Hello, I'm Samirah Nawabi 👋
+# Hello, I'm Samira Nawabi 👋
 
 Welcome to my GitHub profile! I'm a passionate learner currently diving deep into the **MIT Emerging Talent Program**. I love solving complex problems and exploring the vast world of technology. 
 
